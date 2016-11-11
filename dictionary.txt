@@ -3,3 +3,7 @@ students                      student                             студент
 documents                     documents                           документы
 exams                         exams                               экзамены
 result                        result                              результат      
+students                      student                             студенты
+documents                     documents                           документы
+exams                         exams                               экзамены
+result                        result                              результат      
